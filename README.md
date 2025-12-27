@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/skellondev/MonkeModDownloader/total.svg)](github.com/skellondev/MonkeModDownloader/releases)
 ## What does this do? 🤔
 This mod lets you download mods directly from the computer!
 It needs ComputerInterface to function so if you don't have it please get it using the link below
